@@ -1,4 +1,4 @@
-# QR_TGC
+# QR_TGC V1.2.1 beta
 > 一个QRSpeed的对话式文字游戏生成器
 > A QRSpeed Text Game Converter
 
